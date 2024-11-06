@@ -47,3 +47,9 @@ Use the dashboard to manage employees, departments, positions, and events.
 Switch between English and Urdu languages using the language toggle.
 Multilingual Functionality
 The system supports both English and Urdu languages. Language files are stored in the resources/lang directory. To add more languages, create a new folder within this directory and add translation files.
+Screenshot (89).png
+Screenshot (90).png
+Screenshot (92).png
+Screenshot (93).png
+Screenshot (94).png
+Screenshot (95).png
